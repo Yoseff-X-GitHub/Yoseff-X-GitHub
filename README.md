@@ -1,5 +1,5 @@
 ![Design and Development](https://github.com/Yoseff-X-GitHub/Yoseff-X-GitHub/blob/main/GitHub%20Banner%201.jpg)
-### Hi there 👋
+### Hello there! 👋 I'm Joseph Wilson!
 
 <!--
 **Yoseff-X-GitHub/Yoseff-X-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
